@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Language learning app</string>
+    <string name="title_activity_topic_list">TopicListActivity</string>
+    <string name="title_activity_you_tube">YouTubeActivity</string>
+    <string name="title_activity_quiz_selection">QuizSelection</string>
+    <string name="title_activity_topic1_quiz">Topic1Quiz</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+
+    <string name="question1"> 我是中国学生 translates to I am a Chinese student  </string>
+    <string name="question2"> 我不是中国学生 means I am from Chinese </string>
+    <string name="question3"> 她 is She </string>
+    <string name="question4"> 英语 is British </string>
+
+    <string name="question5">私は日本語を勉強しています means I am learning Japanese </string>
+    <string name="question6">私はオーストラリア出身です means I am from USA </string>
+    <string name="question7">Japanese people say いただきます before eating </string>
+    <string name="question8">私は学生です means i am a teacher</string>
+
+    <string name="question9"> Sister in korea is 여자 형제  </string>
+    <string name="question10"> Sunbae refers to someone younger at school </string>
+    <string name="question11"> This, That, It  =  이, 그, 저 </string>
+    <string name="question12"> 주세요 means Please give me. </string>
+
+
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_general_info">GeneralInfo</string>
+    <string name="title_activity_wrong_ans">WrongAns</string>
+    <string name="title_activity_text_info">TextInfo</string>
+</resources>

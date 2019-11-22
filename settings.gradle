@@ -1,0 +1,2 @@
+include ':math_learning'
+rootProject.name='Math-learning-app'
